@@ -1,5 +1,5 @@
 {
-  "name": "passport-local-sequelize",
+  "name": "@spyndutz/passport-local-sequelize",
   "version": "0.10.0+spyndutz.1",
   "engines": {
     "node": ">=10.0.0"
@@ -10,11 +10,15 @@
   "contributors": [
     "Tubagus Hendro Pramono <spyndutz+github@gmail.com> (https://github.com/spyndutz)"
   ],
-  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/spyndutz/passport-local-sequelize.git"
   },
+  "bugs": {
+    "url": "https://github.com/spyndutz/passport-local-sequelize/issues"
+  },
+  "homepage": "https://github.com/spyndutz/passport-local-sequelize#readme",
+  "license": "MIT",
   "scripts": {
     "test": "node_modules/jshint/bin/jshint lib/*.js test/*.js && node_modules/mocha/bin/mocha -R spec"
   },
