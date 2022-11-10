@@ -1,4 +1,6 @@
 # Passport-Local Sequelize
+This is spyndutz's forked version of [passport-local-sequelize](https://github.com/madhurjain/passport-local-sequelize) package
+
 Passport-Local Sequelize is a [Sequelize](http://sequelizejs.com/) plugin 
 that simplifies building username and password login with [Passport](http://passportjs.org)
 
@@ -6,7 +8,7 @@ This plugin is heavily inspired by [Passport-Local Mongoose](https://github.com/
 
 # Installation
 
-    $ npm install passport-local-sequelize
+    $ npm install @spyndutz/passport-local-sequelize
 
 # Usage
 
